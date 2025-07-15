@@ -1,0 +1,7 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+## 命令连接
+在 Windows PowerShell 中需要使用分号(`;`)而不是 `&&` 来连接多个命令。
